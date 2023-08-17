@@ -1,10 +1,10 @@
 #!/bin/bash
 ############################################################
-# Squid Proxy Installer
-# Author: Ian
-# Email: ian@dmsmarters.com
-# Github: https://github.com/devmaxxph/squid-proxy
-# Web: https://dmsmarters.com
+# HTTP Squid Proxy Installer
+# Author: Ian Rey Torres
+# Email: support@ditovpn.com
+# Github: https://github.com/ditovpn
+# Web: https://ditovpn.com
 ############################################################
 # For paid support, contact
 # https://t.me/devmaxx
