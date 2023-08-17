@@ -64,6 +64,4 @@ sed -i 's/^http_port.*$/http_port 5555/g'  /etc/squid/squid.conf
 
 # Support
 
-If you are looking for paid support, contact me
-
-https://t.me/devmaxx
+If you are looking for paid support, contact me support@ditovpn.com
